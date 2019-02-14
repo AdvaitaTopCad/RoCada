@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/ro_cada" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>
